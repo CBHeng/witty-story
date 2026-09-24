@@ -8,10 +8,8 @@
 
 # witty-story
 
-Software stories worth telling: the ones that stay with you, that make something click,
-that turn out smarter and more meaningful than they first looked. Now and then one is
-funny, in the way only developers catch — never a laugh at anyone's expense, but the
-satisfying kind of surprise.
+Software stories that stay with you, make something click, and turn out smarter than they looked.<br>
+Now and then a touch of humor: a knowing grin only developers catch, and something to think over.
 
 </div>
 
