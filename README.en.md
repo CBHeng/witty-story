@@ -59,3 +59,13 @@ headphones, and waited. They did every part right, imitated every detail, and st
 airplanes landed.
 
 → [Read more](stories/cargo-cult-programming.en.md)
+
+---
+
+## Contributing
+
+All kinds of stories are welcome.<br>
+History and legend, myth, product names, system names, engineering practices, day-to-day development — anything to do with software.<br>
+Let the moments worth remembering get written down.
+
+→ [Open an issue](https://github.com/CBHeng/witty-story/issues/new?template=story.yml)

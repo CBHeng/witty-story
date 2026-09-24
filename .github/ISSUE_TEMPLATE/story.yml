@@ -1,0 +1,33 @@
+name: 投稿一則故事 / Share a story
+description: 歷史流傳、神話、產品名、系統名、軟體工法、開發日常，與軟體有關的故事都歡迎。/ History and legend, myth, product and system names, engineering practice, day-to-day development — any story about software.
+title: "[投稿] "
+body:
+  - type: textarea
+    id: story
+    attributes:
+      label: 故事 / The story
+      description: 發生了什麼？讓你印象深刻、恍然大悟的是哪一下？/ What happened? What was the moment it clicked?
+    validations:
+      required: true
+  - type: input
+    id: topic
+    attributes:
+      label: 主題 / Topic
+      description: 故事圍繞的那個名字、系統、術語或做法。/ The name, system, term, or practice the story is about.
+      placeholder: tcell
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: 出處 / Source
+      description: 連結、書名，或寫「親身經歷」。/ Links, books, or "I was there." Every story is checked before it goes in.
+    validations:
+      required: false
+  - type: input
+    id: credit
+    attributes:
+      label: 致謝 / Credit
+      description: 故事裡有誰該被記得？要不要署名你自己？/ Who in this story deserves the credit? Should we credit you too?
+    validations:
+      required: false

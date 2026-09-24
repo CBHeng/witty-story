@@ -52,3 +52,13 @@ daemon 源來自 Maxwell 當時為了證明熱力學第二定律「只有統計�
 Feynman：南太平洋那群人蓋好跑道、塔台，戴上木頭削的耳機，正等著飛機，他們把每一件事都做對了、模仿對了，但始終沒有飛機降落。
 
 → [更多詳細](stories/cargo-cult-programming.md)
+
+---
+
+## 歡迎投稿
+
+歡迎提供各路故事。<br/>
+歷史流傳、神話、產品名、系統名、軟體工法、開發...等，與軟體有關皆可以提供。<br />
+讓那些特別的回憶，紀錄下來。
+
+→ [開個 issue](https://github.com/CBHeng/witty-story/issues/new?template=story.yml)
