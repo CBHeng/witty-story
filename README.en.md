@@ -20,8 +20,10 @@ Now and then a touch of humor: a knowing grin only developers catch, and somethi
 > **Killing is a form of healing.**
 
 It patrols every service on a host and kills the process of any that has hung and stopped
-answering. T-cells work the same beat: they don't repair a bad cell, they remove it and
-leave the body to regrow the tissue.
+answering.
+
+T-cells work the same beat: they don't repair a bad cell, they remove it and leave the body to
+regrow the tissue.
 
 → [Read more](stories/tcell.en.md)
 
@@ -31,10 +33,13 @@ leave the body to regrow the tissue.
 
 > **It was never a demon. It's the spirit that keeps watch.**
 
-The `d` on the end of `sshd` and `httpd` is for daemon, and the daemon is the creature Maxwell
-imagined at a hole in a partition, sorting molecules without rest for no better reason than to
-show that the second law of thermodynamics "has only a statistical certainty." The spelling is
-older than demon: in Greek, a being that attends you.
+The `d` on the end of `sshd` and `httpd` is for daemon.
+
+The daemon is the creature Maxwell imagined at a hole in a partition, sorting molecules without
+rest for no better reason than to show that the second law of thermodynamics "has only a
+statistical certainty."
+
+In Greek, a daemon is a being that attends you.
 
 → [Read more](stories/daemon.en.md)
 
@@ -44,10 +49,12 @@ older than demon: in Greek, a being that attends you.
 
 > **It isn't wrong code. It's code shaped like right code.**
 
-Why are those three lines there? "It breaks without them" — nobody tried. You remember
-colleagues asking, and giving that answer yourself. Some may be lines you left behind — and
-now somebody is asking. Same answer. Feynman: islanders who built a runway and a control
-tower, wore two pieces of wood for headphones, and waited. Everything done right, and no
-airplanes landing.
+Why are those three lines there? "It breaks without them" — nobody tried.
+
+You remember colleagues asking, and giving that answer yourself. Some may be lines you left
+behind — and now somebody is asking. Same answer.
+
+Feynman: islanders who built a runway and a control tower, wore two pieces of wood for
+headphones, and waited. Everything done right, and no airplanes landing.
 
 → [Read more](stories/cargo-cult-programming.en.md)
