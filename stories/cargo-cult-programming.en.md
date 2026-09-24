@@ -1,6 +1,6 @@
 <div align="right">
 
-[中文](cargo-cult-programming.md) | **English**
+[繁體中文](cargo-cult-programming.md) | **English**
 
 </div>
 

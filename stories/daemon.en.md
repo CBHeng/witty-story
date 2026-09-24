@@ -1,6 +1,6 @@
 <div align="right">
 
-[中文](daemon.md) | **English**
+[繁體中文](daemon.md) | **English**
 
 </div>
 

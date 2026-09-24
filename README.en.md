@@ -1,6 +1,6 @@
 <div align="right">
 
-[中文](README.md) | **English**
+[繁體中文](README.md) | **English**
 
 </div>
 
@@ -22,8 +22,8 @@ Now and then a touch of humor: a knowing grin only developers catch, and somethi
 It patrols every service on a host and kills the process of any that has hung and stopped
 answering.
 
-T-cells work the same beat: they don't repair a bad cell, they remove it and leave the body to
-regrow the tissue.
+Like a T-cell on patrol in the body: it finds the cells that have mutated and gone bad, clears
+them out, and leaves the body to grow the tissue back.
 
 → [Read more](stories/tcell.en.md)
 
@@ -35,11 +35,10 @@ regrow the tissue.
 
 The `d` on the end of `sshd` and `httpd` is for daemon.
 
-The daemon is the creature Maxwell imagined at a hole in a partition, sorting molecules without
-rest for no better reason than to show that the second law of thermodynamics "has only a
-statistical certainty."
-
 In Greek, a daemon is a being that attends you.
+
+The name traces back to Maxwell, who was out to show that the second law of thermodynamics "has
+only a statistical certainty."
 
 → [Read more](stories/daemon.en.md)
 
@@ -49,12 +48,14 @@ In Greek, a daemon is a being that attends you.
 
 > **It isn't wrong code. It's code shaped like right code.**
 
-Why are those three lines there? "It breaks without them" — nobody tried.
+Why are those three lines there? "It breaks without them" — and nobody ever tried.
 
-You remember colleagues asking, and giving that answer yourself. Some may be lines you left
-behind — and now somebody is asking. Same answer.
+You remember colleagues asking, and giving that answer yourself; think a little further, and
+those three lines may well be yours, and now someone else is asking, and the answer hasn't
+changed.
 
 Feynman: islanders who built a runway and a control tower, wore two pieces of wood for
-headphones, and waited. Everything done right, and no airplanes landing.
+headphones, and waited. They did every part right, imitated every detail, and still no
+airplanes landed.
 
 → [Read more](stories/cargo-cult-programming.en.md)

@@ -1,6 +1,6 @@
 <div align="right">
 
-[中文](tcell.md) | **English**
+[繁體中文](tcell.md) | **English**
 
 </div>
 
