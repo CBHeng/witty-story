@@ -62,6 +62,22 @@ airplanes landed.
 
 ---
 
+## `dwarf`
+
+> **Dwarves mining raw ore that has yet to meet the forge.**
+
+A system for pulling in financial data, named for the dwarves of World of Warcraft — a race
+that has spent generations mining treasure from deep in the earth.
+
+But what they dig up is ore, and it has to be hauled to a forge and smelted into bars before
+it's good for anything.
+
+Mining, smelting, storing — that's ETL in data engineering. The dwarf is the E.
+
+→ [Read more](stories/dwarf.en.md)
+
+---
+
 ## Contributing
 
 All kinds of stories are welcome.<br>
